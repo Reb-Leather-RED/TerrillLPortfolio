@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <title>TerrillPhotography Portfolio</title>
+</head>
+<body>
+
+
+  <style>
+    h1 {
+      font-family: 'Courier New', serif;
+    }
+  </style>
+
+
+<h1 style="background-color:#B81818;">Terrill Photography Portfolio</h1>
+<hr>
+
+
+  <style>
+    h2 {
+      font-family: 'Courier New', serif;
+    }
+  </style>
+
+
+<style>
+
+p  {
+  color: #a50000;
+  font-family:Verdana;
+  font-size: 97%;
+}
+</style>
+  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Navigation Menu</title>
+  <style>
+    /* Reset default margins and padding */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    /* Style the navigation container */
+    .navbar {
+      background-color: #333;
+      padding: 15px 30px;
+      display: flex;
+      justify-content: flex-end; /* Aligns items to the right */
+      gap: 15px; /* Adds space between buttons */
+    }
+
+    /* Style the navigation links as buttons */
+    .nav-btn {
+      display: inline-block;
+      text-decoration: none;
+      font-family: Courier New, serif;
+      font-size: 16px;
+      font-weight: bold;
+      color: #ffffff;
+      background-color: #FFC2F5;
+      padding: 10px 20px;
+      border-radius: 5px;
+      transition: background-color 0.3s ease, transform 0.1s ease;
+    }
+
+    /* Hover effect */
+    .nav-btn:hover {
+      background-color: #FF8CEB;
+    }
+
+    /* Active click effect */
+    .nav-btn:active {
+      transform: scale(0.98);
+    }
+  </style>
+
+  <!-- Semantic navigation wrapper -->
+  <nav class="navbar">
+    <a href="#manual_settings" class="nav-btn">Manual Settings</a>
+    <a href="#elements" class="nav-btn">Elements</a>
+    <a href="#lighting" class="nav-btn">Lighting</a>
+    <a href="#commercial-art" class="nav-btn">Commercial Art</a>
+    <a href="#art" class="nav-btn">Art</a>
+  </nav>
+
+<section id="manual_settings" class="portfolio-section">
+  <h2>Manual Settings</h2>
+  <img src="1cOO5T2XiYkHSJJpHvmBtOTryvBKY46KG" width="5184" height="3456" style="border:0;"></img>
+
+<img src= 
+</section>
+
+</body>
+</html>
